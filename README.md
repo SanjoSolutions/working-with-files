@@ -2,6 +2,11 @@
 
 This work is devoted to God.
 
+## Table of contents
+
+* [Finding files in a directory (with POSIX extended regular expression support)](#finding-files-in-a-directory-with-posix-extended-regular-expression-support)
+* [Finding files in a directory (with PERL regular expression support)](#finding-files-in-a-directory-with-perl-regular-expression-support)
+
 ## Finding files in a directory (with POSIX extended regular expression support)
 
 In a Bash shell:
